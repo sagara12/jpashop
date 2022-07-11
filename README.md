@@ -67,3 +67,4 @@ exclude group: "org.hamcrest", module: "hamcrest-core"
 
 ## 👀실행 화면
 <img width="80%" src="https://user-images.githubusercontent.com/46039671/178271865-ea38616c-2d45-4f4e-9436-f276e576666e.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/46039671/178272698-1f5a4d48-b533-4a19-bea1-5c22566ee62a.png"/>
