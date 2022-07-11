@@ -9,7 +9,7 @@
 ## Technologies
 <img src="https://img.shields.io/badge/H2 DB-FFCA28"/> <img src="https://img.shields.io/badge/JPA-orange"/> <img src="https://img.shields.io/badge/SpringBoot-blue"/> <img src="https://img.shields.io/badge/thymeleaf-green"/> 
 
-## 환경 설정
+## 📝환경 설정
 > gladle.build
 
 ```java
@@ -27,7 +27,7 @@ testImplementation("org.junit.vintage:junit-vintage-engine") {
 exclude group: "org.hamcrest", module: "hamcrest-core"
 }
 ```
-## 라이브러리 살펴보기
+## 📐 라이브러리 살펴보기
 > 스프링 부트 라이브러리 
 * spring-boot-starter-web
    * spring-boot-starter-tomcat: 톰캣 (웹서버)
@@ -65,4 +65,4 @@ exclude group: "org.hamcrest", module: "hamcrest-core"
 * 로깅 SLF4J & LogBack
 * 테스트
 
-## ERD 설정
+## 👀실행 화면
