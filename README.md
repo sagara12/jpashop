@@ -71,4 +71,3 @@ exclude group: "org.hamcrest", module: "hamcrest-core"
 
 ## 🎈총평
 * 강의를 듣고나서 SpringBoot와 JPA를 어떤식으로 써야 하는지 알게 되었습니다. 
-  node.js와 react를 학습하고 나서 새로운 프로젝트를 만들때 주요하게 사용 하도록 하겠습니다.
