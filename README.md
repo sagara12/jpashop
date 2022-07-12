@@ -9,6 +9,9 @@
 ## Technologies
 <img src="https://img.shields.io/badge/H2 DB-FFCA28"/> <img src="https://img.shields.io/badge/JPA-orange"/> <img src="https://img.shields.io/badge/SpringBoot-blue"/> <img src="https://img.shields.io/badge/thymeleaf-green"/> 
 
+## IDEA
+<img src="https://img.shields.io/badge/IntelliJ IDEA-6A5FBB?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+
 ## 📝환경 설정
 > gladle.build
 
