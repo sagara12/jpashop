@@ -57,7 +57,7 @@ public class initDb {
             em.persist(book2);
 
             OrderItem orderItem1 = OrderItem.createOrderItem(book1, 10000, 1);
-            OrderItem orderItem2 = OrderItem.createOrderItem(book1, 20000, 2);
+            OrderItem orderItem2 = OrderItem.createOrderItem(book2, 20000, 2);
 
 
             Order order = Order.createOrder(member, createDelivery(member), orderItem1, orderItem2);
